@@ -1,6 +1,6 @@
-![make.fun](https://make.fun/badge/btc-race-24h-20261123-0511.svg)
-![rank](https://make.fun/badge/btc-race-24h-20261123-0511/starbumb/btc-race-24h-20261123-0511/rank.svg)
-![reward](https://make.fun/badge/btc-race-24h-20261123-0511/starbumb/btc-race-24h-20261123-0511/reward.svg)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/starbumb/btc-race-24h-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/starbumb/btc-race-24h-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 # btc-race-24h-20261123-0511 — dip-buy bot
 
